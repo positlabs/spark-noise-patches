@@ -1,5 +1,4 @@
-# spark-noise-patches
-Various noise patches for Spark AR.
+# Noise patches for Spark AR.
 
 Note that the noise patches DO NOT actually work on device. Your best bet for making film grain would be to use a grain texture, or a series of grain textures in an animation.
 
@@ -14,6 +13,9 @@ Learn more stuff by watching my [Spark AR Tutorials on YouTube!](https://www.you
 Follow me on Instagram [@positlabs](https://instagram.com/positlabs) and try out my effects!
 
 Browse my open-source [Spark AR repositories on Github!](https://github.com/search?q=user%3Apositlabs+spark)
+
+Have questions? Join the [Spark AR Community](https://www.facebook.com/groups/SparkARcommunity/) group on Facebook.
+
 
 ## Donations
 
